@@ -1,0 +1,30 @@
+measure: đo lường
+analysis: phân tích
+monitor: giám sát
+coverage: phạm vi,độ bao phủ
+criteria: tiêu chí
+provide: cung cấp
+initiate: khởi tạo
+corrective: 
+actions: hành động
+control: kiểm soát
+exit criteria: tiêu chí xuất(tiêu chí dừng test)
+implementation: thực thi
+execution: chạy test
+scope: phạm vi
+risks: rủi ro
+objectives: mục tiêu
+policy: chính sách
+strategy: chiến lượcc
+approach: cách tiếp cận
+resources: tài nguyên(ghi chi tiết)
+schedule: lịch trình
+test basic: tại liệu để viết test
+test conditions: đối tượng khách hàng
+evaluate: đánh giá
+pprioritize: ưu tiên
+suites: bộ
+actual: thực tế 
+expected: mong đợi
+archive: lưu trữ
+hand over: chuyển giao
